@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Modern, minimalist to-do app with progress tracking, smart priority management, category filters, and intuitive workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
